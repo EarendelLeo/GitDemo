@@ -5,5 +5,4 @@ hello c
 hello python
 hello javascript
 hello matlab
-hello git
 hello rust
