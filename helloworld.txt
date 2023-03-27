@@ -1,0 +1,9 @@
+hello world！
+hello C++！
+hello java！
+hello c
+hello python
+hello javascript
+hello matlab
+hello git
+
